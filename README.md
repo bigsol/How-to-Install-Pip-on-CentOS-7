@@ -4,7 +4,7 @@ installing pip on CentOS<br>
 To install pip on your CentOS machine, follow these steps:<br>
 <br>
 1. Add the EPEL Repository <br>
-* Pip is not available in CentOS 7 core repositories. To install pip we need to enable the EPEL repository :<br>
+Pip is not available in CentOS 7 core repositories. To install pip we need to enable the EPEL repository :<br>
 <br>
 <b>sudo yum install epel-release<br></b>
 <br>
