@@ -17,7 +17,7 @@ Once the EPEL repository is enabled we can install pip and all of its dependenci
 <br>
 <b>pip --version<br></b>
 <br>
-Install development tools<br>
+4. Install development tools<br>
 Development tools are required for building Python modules, you can install them with:<br>
 <br><b>sudo yum install python-devel<br>
 sudo yum groupinstall 'development tools'<br></b>
