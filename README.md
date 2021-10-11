@@ -22,5 +22,5 @@ Development tools are required for building Python modules, you can install them
 <br><b>sudo yum install python-devel<br>
 sudo yum groupinstall 'development tools'<br></b>
 <br>
-
-
+We recommend installing version 3<br>
+<b>yum install python3-pip -y</b>
